@@ -15,4 +15,3 @@ Example of use:
          .addField("Message", "`" + (String) message.getContent() + "`", false)
          .setColor(Color.PINK));
  webhook.execute();
-      
